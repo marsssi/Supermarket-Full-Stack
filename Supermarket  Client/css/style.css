@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  img{
+      height: fit-content;
+      width: 100%;
+  }
+  /* NAVBAR */
+  .nav-item {
+    font-size: 150%;
+  }
+  .nav-link{
+      color: rgb(2, 2, 177);
+      font-weight: 500;
+  }
+  .navbar-brand {
+    font-size: 250%;
+  }
+  .dropdown-menu {
+    margin-left: -70px;
+    background-color: rgb(201, 226, 253);
+  }
+  
+/* ejngewljgne */
+
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  div.formDiv {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 25px ;
+    margin: auto;
+    width: 50%;
+    margin-top: 10%;
+  }
+
+  .formDiv input{
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+  }
+  label.error{
+    color: red;
+  }
+
+  input.error{
+    border: 2px solid red;
+  }
+
+  input.error:focus{
+    border: 2px solid red;
+  }
+.row{
+  padding: 3%;
+}
